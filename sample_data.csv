@@ -1,6 +1,0 @@
-part_number,part_code,machine_name,material,install_date,recommended_usage,category
-PART001,CODE001,Mesin A,Steel,2024-01-01,2000,Mechanical
-PART002,CODE002,Mesin B,Aluminum,2024-02-01,1500,Electrical
-PART003,CODE003,Mesin C,Copper,2024-03-01,1000,Pneumatic
-PART004,CODE004,Mesin A,Steel,2024-01-15,1800,Mechanical
-PART005,CODE005,Mesin B,Aluminum,2024-02-15,1200,Electrical
